@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Peesoft\PackageInterface;
+namespace Testsoft\PackageInterface;
 
 
 interface DoerInterface

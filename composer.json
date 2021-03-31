@@ -1,5 +1,5 @@
 {
-    "name": "peesoft/package-interface",
+    "name": "testsoft/package-interface",
     "type": "library",
     "description": "An interface for a package",
     "minimum-stability": "dev",
@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Peesoft\\PackageInterface\\": "src"
+            "Testsoft\\PackageInterface\\": "src"
         }
     }
 }
